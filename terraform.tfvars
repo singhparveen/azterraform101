@@ -1,0 +1,5 @@
+resource_group_name = "demo-rg"
+location = "eastus"
+vm_name = "terraform-vm"
+admin_username = "demo"
+admin_password = "SuperSecretP@ass"
